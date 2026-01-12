@@ -1,5 +1,5 @@
 // tanks.js
-const tanksData = {
+window.tanksData = {
     "tanks": [
         {
             "nation": "china",
@@ -26,4 +26,5 @@ const tanksData = {
             "tags": "HD sinai improvedVentilation_class1_user tankRammer_class1_user aimingStabilizer_class1_user extraHealthReserve_class1_user antifragmentationLining_heavy_user earn_crystals"
         },
     ]
+
 };
