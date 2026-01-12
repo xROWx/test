@@ -1,5 +1,5 @@
 // tanks.js
-window.tanksData = {
+export const tanksData = {
     "tanks": [
         {
             "nation": "china",
@@ -28,3 +28,4 @@ window.tanksData = {
     ]
 
 };
+
